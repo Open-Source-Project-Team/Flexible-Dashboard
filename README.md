@@ -30,4 +30,18 @@ User Part:
 4. User Profile Settings
 5. Admin - User - Admin real time chat option
 
+# Tech
+Frontend- html,css,javascript
+Backend
+PHP/Laravel
+Node JS
+Python/Django
+C#/Dot NET
+
+Android
+Flutter
+Java
+Kotlin
+React Native
+
 
